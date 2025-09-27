@@ -1,0 +1,502 @@
+    1  pwd
+    2  sudo apt update
+    3  sudo apt upgrete -y
+    4  sudo apt upgrate -y
+    5  sudo apt upgrate 
+    6  sudo apt install python3-pip -y
+    7  pip3 --version
+    8  pip install opencv-python
+    9  pip3 install opencv-python
+   10  sudo apt install python3-opencv
+   11  pwd
+   12  cd
+   13  pwd
+   14  cd ..
+   15  pwd
+   16  cd
+   17  pwd
+   18  cd ..
+   19  pwd
+   20  cd
+   21  nano Canny.py
+   22  sudo mv cartas.jpg/home/Canny
+   23  sudo mv cartas.jpg/home/canny
+   24  python3 Canny.py
+   25  vid Canny.py
+   26  vim Canny.py
+   27  python3 Canny.py
+   28  nano Canny.py
+   29  ls
+   30  python3 Canny.py
+   31  sudo Canny.py
+   32  nano Canny.py
+   33  python3 Canny.py
+   34  ls
+   35  nano Canny.py
+   36  python3 Canny.py
+   37  nano Canny.py
+   38  python3 Canny.py
+   39  sudo apt update
+   40  sudo apt install python3-tk
+   41  sudo apt install libqt5gui5
+   42  python3 Canny.py
+   43  sudo apt installgit
+   44  sudo apt install git
+   45  git init
+   46  git config --global user.name "axel776-cpu"
+   47  git config --global user.email "axelolivo776@gmail.com"
+   48  git init
+   49  sudo apt install git
+   50  git add
+   51  git add .
+   52  git romote add origin https://github.com/axel776-cpu/sistemas-operativos-25b.git
+   53  git remote add origin https://github.com/axel776-cpu/sistemas-operativos-25b.git
+   54  git push -u origin main
+   55  git add Canny.py cartas.jpg.jpeg
+   56  git commit -m "proyecto OpenCV"
+   57  git push -u origin master
+   58  pwd
+   59  cd
+   60  cd ..
+   61  pwd
+   62  ls
+   63  cd
+   64  pwd
+   65  ls
+   66  rm -rf .git
+   67  git init
+   68  git add Canny.py
+   69  git commit -m "detector de bordes"
+   70  git commit -m "mas o menos funcia "
+   71  git commit --allow-empty -m "mas o menos funcia "
+   72  git commit -m "detector de bordes"
+   73  git add Canny.py
+   74  git commit -m "detector de bordes"
+   75  git commit --allow-empty -m "mas o menos funcia "
+   76  git commit --allow-empty -m "detecion de bordes "
+   77  git log --online
+   78  git remote add origin https://github.com/axel776-cpu/sistemas-operativos-25b.git
+   79  git push -u origin master
+   80  git push --force origin master
+   81  git commit --allow-empty -m "ya casi queda "
+   82  git push --force origin master
+   83  git add ARCHIVO1
+   84  git commit -m "hola jej"
+   85  git add Canny.jpg.jpeg
+   86  git add Canny.py
+   87  git commit -m "hola "
+   88  pwd
+   89  cd ..
+   90  cd
+   91  pwd
+   92  cd
+   93  ls
+   94  cd CAnny
+   95  cd CAnny.py
+   96  cd Canny.py
+   97  cd Canny
+   98  cd
+   99  canny
+  100  ls
+  101  ls-la
+  102  ls -la
+  103  clear
+  104  mkdir canny
+  105  cd canny
+  106  mkdir asistencias 
+  107  ls -la
+  108  git init
+  109  git config --global init.defaultBranch main
+  110  echo "# Proyecto Canny - Carpeta de Asistencias" > README.md
+  111  git add .
+  112  git commit -m "Primer commit: crear carpeta asistencias"
+  113  git status
+  114  git remote add origin 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
+  115  git push -u origin main
+  116  git pull origin main --allow-unrelated-histories
+  117  git add .
+  118  git commit -m "Resolver conflictos y fusionar repositorios"
+  119  git push origin main
+  120  git remote -v
+  121  git remote remove origin
+  122  git remote -v
+  123  git remote add origin https://github.com/axel776-cpu/sistemas-operativos-25b
+  124  git push -u origin main
+  125  git pull origin main --allow-unrelated-histories
+  126  git push origin main
+  127  git status
+  128  git log --oneline
+  129  git branch -M main
+  130  git push -u origin main --force
+  131  gnome-screenshot -f ~/Escritorio/captura_repositorio.png
+  132  sudo apt install gnome-screenshot
+  133  gnome-screenshot -f ~/Escritorio/captura_repositorio.png
+  134  ls -la ~/Escritorio/ | grep captura
+  135  mkdir ~/Escritorio
+  136  sudo apt get update
+  137  sudo apt-get update
+  138  apt-get help
+  139  sudo apt install java
+  140  apt-get help
+  141  clear
+  142  sudo apt-get upgrade
+  143  sudo apt-get upgrade -y
+  144  clear
+  145  top
+  146  clear
+  147  top
+  148  clear
+  149  sudo apt-get htop
+  150  sudo apt-get install htop
+  151  sudo apt-get install htop -y
+  152  htop
+  153  sudo apt-get install htop -y
+  154  sudo apt --fix-broken install
+  155  sudo apt install htop
+  156  apt --fix-broken install
+  157  sudo apt --fix-broken install
+  158  sudo dpkg --remove --force-remove-reinstreq systemd-sysv
+  159  sudo apt-mark hold systemd-sysv
+  160  sudo apt install htop
+  161  sudo apt --fix-broken install
+  162  wget http://archive.ubuntu.com/ubuntu/pool/universe/h/htop/htop_3.0.5-7build2_amd64.deb
+  163  sudo dpkg -i htop_3.0.5-7build2_amd64.deb --force-depends
+  164  pwd
+  165  cd ..
+  166  cd
+  167  cd ~/canny
+  168  pwd
+  169  ls -la
+  170  ls -la asistencias/
+  171  git add asistencias/
+  172  git status
+  173  git commit -m "Agregar captura de pantalla a carpeta asistencias"
+  174  git push origin main
+  175  cd..
+  176  cd
+  177  sudo snap install htop
+  178  sudo apt update
+  179  git clone https://github.com/htop-dev/htop.git
+  180  cd htop
+  181  ./autogen.sh
+  182  ./configure
+  183  make
+  184  sudo make installsudo apt install autotools-dev autoconf automake libtool
+  185  sudo apt install autotools-dev autoconf automake libtool
+  186  sudo dpkg --configure -a --force-all
+  187  sudo apt install htop
+  188  sudo apt update
+  189  sudo apt --fix-broken install
+  190  sudo dpkg --configure -a
+  191  sudo apt install systemd=255.4-1ubuntu8.4
+  192  sudo apt install --reinstall systemd
+  193  sudo apt --fix-broken install
+  194  sudo apt install --reinstall systemd
+  195  sudo snap install htop
+  196  sudo apt install aptitude
+  197  apt --fix-broken install
+  198  sudo rm /var/lib/dpkg/lock-frontend
+  199  sudo apt install htop
+  200  wget http://archive.ubuntu.com/ubuntu/pool/universe/h/htop/htop_3.2.2-2_amd64.deb
+  201  sudo dpkg -i htop_3.2.2-2_amd64.deb
+  202  sudo snap install htop
+  203  sudo apt-get  install htop
+  204  htop
+  205  sudo apt-get install htop
+  206  # Fuerza la instalación ignorando dependencias rotas
+  207  sudo apt-get install htop --fix-missing
+  208  htop
+  209  sudo apt-get install htop -o APT::Force-LoopBreak=1
+  210  wget https://github.com/htop-dev/htop/releases/download/3.3.0/htop-3.3.0.tar.xz
+  211  tar -xf htop-3.3.0.tar.xz
+  212  cd htop-3.3.0
+  213  # Si tienes las herramientas de compilación:
+  214  ./configure && make
+  215  sudo cp htop /usr/local/bin/
+  216  make
+  217  htop
+  218  sudo make install
+  219  sudo cp htop /usr/local/bin/make
+  220  sudo apt-get install libncurses5-dev libncursesw5-dev
+  221  sudo snap install htop
+  222  sudo apt-get install htop
+  223  sudo apt update && sudo apt full-upgrade
+  224  sudo apt full-upgrade
+  225  # Verifica tu versión actual
+  226  lsb_release -a
+  227  # Actualiza a la siguiente versión
+  228  sudo do-release-upgrade
+  229  # Intenta forzar la instalación de la versión específica
+  230  sudo apt install systemd=255.4-1ubuntu8.4 --allow-downgrades
+  231  cd
+  232  ls-l
+  233  ls -l
+  234  htop
+  235  sudo apt install htop
+  236  'apt --fix-broken install htop
+  237  rpm --qa --last
+  238  apt list --installed
+  239  wc -l
+  240  $ apt list --installed | wc -l
+  241  apt list --installed | wc -l
+  242  apt list --installed > packages.txt
+  243  /usr/bin/apt list --installed | wc -l
+  244  dpkg -l | grep "^ii" | wc -l
+  245  ls -l
+  246  cd canny
+  247  mkdir tareas
+  248  ls -l
+  249  ls tareas
+  250  cd tareas
+  251  git init
+  252  git add
+  253  git commit -m "priimer commit - carpeta tareas"
+  254  git add .
+  255  git commit -m " agregar archivos de tareas - imagens PNG y pakckages.txt"
+  256  git remote add origin https://github.com/axel776-cpu/sistemas-operativos-25b
+  257  git push -u origin main
+  258  git push -u origin main --force
+  259  cd..
+  260  cd
+  261  cd ..
+  262  ls -la
+  263  cd ..
+  264  cd canny 
+  265  cd canny ..
+  266  ls -la
+  267  ls -l
+  268  cd
+  269  cd ..
+  270  ls -l
+  271  ls
+  272  clear
+  273  cd .. canny
+  274  cd canny..
+  275  cd canny ..
+  276  canny ..
+  277  pwd
+  278  ls -la
+  279  find / -name "canny" -type d 2>/dev/null
+  280  pwd
+  281  canny 
+  282  cd canny ..
+  283  ls -la
+  284  cd canny
+  285  ls -la
+  286  ped
+  287  pwd
+  288  tree
+  289  ls -la
+  290  git add
+  291  git add .
+  292  rm -rf tareas/.git
+  293  git add .
+  294  git status
+  295  git remotee add origin https://github.com/axel776-cpu/sistemas-operativos-25b
+  296  git remote add origin https://github.com/axel776-cpu/sistemas-operativos-25b
+  297  git remote remove origin
+  298  git remote add origin https://github.com/axel776-cpu/sistemas-operativos-25b
+  299  git push -u origin main --force 
+  300  git rm --cached tareas 
+  301  git add tareas/
+  302  git commit -m "corrregir carpeta tareas  - agregar con contenido real "
+  303  git push origin main
+  304  sudo apt-get install htop -y
+  305  htop
+  306  sudo apt install htop
+  307  htop
+  308  sudo apt install htop
+  309  clear
+  310  history
+  311  clear
+  312  top
+  313  htop
+  314  sudo apt install htop --force
+  315  clear
+  316  chown --help
+  317  clear
+  318  login
+  319  loggin
+  320  top
+  321  clear
+  322  top
+  323  clear
+  324  cd 
+  325  cd home
+  326  pwd
+  327  cd
+  328  cd ..
+  329  cd /..
+  330  cd/home 
+  331  cd
+  332  pwd
+  333  cd /..
+  334  pwd
+  335  ls -l
+  336  cd etc
+  337  ls -l
+  338  cd etc
+  339  clear
+  340  cd..
+  341  cd ..
+  342  pwd
+  343  cd/home 
+  344  cd /home ..
+  345  cd home ..
+  346  pwd
+  347  cd
+  348  pwd
+  349  /etc/inittab
+  350  /ect
+  351  cd /
+  352  pwd
+  353  inittap
+  354  ls -l
+  355  etc
+  356  /ect
+  357  init 0
+  358  sudo init 1
+  359  clear
+  360  ls -l
+  361  cd etc
+  362  top
+  363  T
+  364  systemd --help
+  365  systemd --version
+  366  systemd --help
+  367  systemd --show-status
+  368  systemctl --help
+  369  sudo apt install openssh-server
+  370  sudo apt --fix-broken install
+  371  apt-mark showhold
+  372  sudo apt --fix-broken install
+  373  sudo apt update
+  374  cd ..
+  375  pwd
+  376  sudo apt-get install openssh-server -y
+  377  sudo apt update
+  378  sudo apt --fix-broken install
+  379  sudo apt autoremove
+  380  sudo apt install openssh-sftp-server
+  381  # Instalar aptitude si no lo tienes
+  382  sudo apt install aptitude
+  383  sudo apt update && sudo apt full-upgrade
+  384  sudo apt install systemd=255.4-1ubuntu8.4 systemd-sysv=255.4-1ubuntu8.4
+  385  sudo apt install systemd=255.4-1ubuntu8.10 systemd-sysv=255.4-1ubuntu8.10 --fix-missing
+  386  # Verificar si /etc/passwd está dañado
+  387  sudo pwck
+  388  # Limpiar configuración rota de systemd
+  389  sudo dpkg --configure -a
+  390  systemctl list-unit-files --type service --all
+  391  man systemcl
+  392  man systemctl
+  393  sudo systemctl
+  394  sudo systemctl|grep runing
+  395  sudo systemctl halt
+  396  systemctl list-unit-files -state=failed
+  397  sudo systemctl list-unit-files -state=failed
+  398  sudo systemclt reboor
+  399  systemclt poweroff
+  400  sudo systemclt poweroff
+  401  wsl.exe --update
+  402  n,n
+  403  cd/canny
+  404  /canny
+  405  cd
+  406  caany/
+  407  cd / canny
+  408  ls -l
+  409  cd / canny ..
+  410  cd canny
+  411  ls -l
+  412  mkdir trabajo-en-clase
+  413  ls-l
+  414  ls -l
+  415  git add trabajo-en-clase 
+  416  git commit  -m "agregar carpeta trabajo-en-clase con capturas de pantalla"
+  417  git push
+  418  # Push forzado que no sobrescribe si hay cambios nuevos en GitHub
+  419  git push --force-with-lease
+  420  # 1. Primero traer los cambios de GitHub
+  421  git pull origin main
+  422  git status
+  423  git add trabajo-en-clase/
+  424  git commit -m "Agregar carpeta trabajo-en-clase con capturas de pantalla"
+  425  git push origin main
+  426  # Forzar push (cuidado: sobrescribe lo que está en GitHub)
+  427  git push --force-with-lease origin main
+  428  cd /
+  429  ls -l
+  430  etc
+  431  etc/
+  432  etc ..
+  433  cd ..
+  434  cd
+  435  pwd
+  436  clear
+  437  sudo cat /etc/group
+  438  cd
+  439  sudo cat /shadow 
+  440  sudo cat /etc/shadow
+  441  sudo cat /etc/passwd
+  442  sudo useradd -u 1009 -d /home/monti -m -s /bin/bash antoni
+  443  sudo cat /etc/shadow 
+  444  sudo cat /etc/grop
+  445  sudo cat /etc/group
+  446  clear 
+  447  sudo useradd -m -e 2025-09-15 hazm1 
+  448  sudo cat /etc/shadow 
+  449  sudo shagen -l
+  450  sudo chage -l hazm1
+  451  sudo chage -l hazm1
+  452  sudo chage -d 0 hazm1
+  453  sudo chage -l hazm1
+  454  sudo change -E 30 antoni
+  455  sudo change -E 30 monti
+  456  clear
+  457  sudo chage -E 2025-09-15 hazm1
+  458  sudo chage -l
+  459  sudo chage -l hazm1
+  460  sudo useradd fonseca 
+  461  sudo adduser fonceca
+  462  sudo cat /etc/group
+  463  sudo chage -l fonceca
+  464  sudo chage -E 2025-09-12 fonceca 
+  465  sudo chage -l fonceca
+  466  sudo adduser Alvarez 
+  467  useradd --allow-bad-names Alvarez
+  468  sudo adduser --allow-bad-names Alvarez
+  469  sudo cat /etc/group 
+  470  sudo chage -l Alvarez
+  471  sudo cat /ect/group
+  472  sudo cat /etc/group
+  473  history
+  474  sudo cat /etc/group
+  475  sudo usermod -l toto fonseca
+  476  sudo cat /etc/group
+  477  sudo cat /etc/shadow
+  478  sudo userdel .r toto
+  479  sudo userdel -r toto
+  480  sudo cat /etc/shadow
+  481  sudo cat /etc/group
+  482  su Alvarez 
+  483  sudo groupadd -g 1024 admins
+  484  sudo cat /etc/group
+  485  sudo cat/etc/shadow
+  486  sudo cat /etc/shadow
+  487  sudo cat /etc/group
+  488  sudo gpasswd -a Alvarez admins
+  489  sudo cat /etc/group
+  490  sudo gpasswd -a fonceca admins
+  491  sudo cat /etc/group
+  492  sudo groupmod -g 1025 admins 
+  493  sudo cat /etc/group
+  494  sudo grouomod -n admins admons}
+  495  sudo grouomod -n admons admins 
+  496  sudo groupmod -n admons admins 
+  497  sudo cat /etc/group
+  498  sudo groupdel admons 
+  499  sudo cat / etc/group
+  500  sudo cat /etc/group
+  501  history
+  502  history > mis-comandos.txt
